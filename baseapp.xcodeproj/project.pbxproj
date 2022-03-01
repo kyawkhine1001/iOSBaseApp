@@ -67,6 +67,7 @@
 		C266445C27CE6A3F00A27826 /* baseappdemosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baseappdemosUITests.swift; sourceTree = "<group>"; };
 		C266445E27CE6A3F00A27826 /* baseappdemosUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baseappdemosUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C266446927CE6B3500A27826 /* baseapp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baseapp.swift; sourceTree = "<group>"; };
+		C266446B27CE74DA00A27826 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +113,7 @@
 		C266441127CE68CE00A27826 = {
 			isa = PBXGroup;
 			children = (
+				C266446B27CE74DA00A27826 /* LICENSE */,
 				C266441D27CE68CE00A27826 /* baseapp */,
 				C266442927CE68CE00A27826 /* baseappTests */,
 				C266443A27CE6A3C00A27826 /* baseappdemos */,
